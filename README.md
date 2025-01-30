@@ -1,5 +1,7 @@
 # Text-File-to-PGM-Grayscale-Image
 
+## Description:
+This Java project is able to output a grayscale PGM file from another text-based PGM file, using a two dimensional, doubly linked list to make a copy of the original PGM file's image and alter it to get a different, unique result.
 
 ## Instructions:
 Runner is a Java class used to test the linked list's performance; you can run it in your terminal with <strong>java Runner \<input filename\> \<output filename\></strong>
